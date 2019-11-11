@@ -4,7 +4,7 @@ One of the challenges for inexperienced users may be how to go about generating 
 
 Drafty is a single HTML file in an attempt to make it easier. It opens up a form based on the Pact schema, designed to make it easier for non-technical users to construct Pacts. By simply interacting with the form, a valid Pact JSON can be progressively created without the need to dig into the JSON itself.
 
-To use it, simply open `drafty.html` in a web browser.
+To use it, simply open `drafty.html` in a web browser. You can either copy/paste an existing Pact into it and start changing it using the form, or construct a totally new Pact via the form, then save the generated JSON as a Pact when you're done.
 
 No idea what instructions will be required to use this - I'm just throwing it out to see if it's of any use...
 
